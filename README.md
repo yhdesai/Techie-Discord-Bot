@@ -1,2 +1,10 @@
 # Techie-Discord-Bot
-The Discord Bot for Maker Toolbox, Written in python
+Open source code of MakerHub's TechieBot python script
+
+### Required Packages for Testing
+* aiohttp
+* async_timeout
+* discord
+* multidict
+* websockets
+* chardet
